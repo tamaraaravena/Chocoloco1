@@ -1,0 +1,5 @@
+C:\Users\Tamara\Documents\Visual Studio 2010\Projects\Chocoloco\Chocoloco\bin\Chocoloco.dll
+C:\Users\Tamara\Documents\Visual Studio 2010\Projects\Chocoloco\Chocoloco\bin\Chocoloco.pdb
+C:\Users\Tamara\Documents\Visual Studio 2010\Projects\Chocoloco\Chocoloco\obj\Debug\Chocoloco.dll
+C:\Users\Tamara\Documents\Visual Studio 2010\Projects\Chocoloco\Chocoloco\obj\Debug\Chocoloco.pdb
+C:\Users\Tamara\Documents\Visual Studio 2010\Projects\Chocoloco\Chocoloco\obj\Debug\Chocoloco.csprojResolveAssemblyReference.cache
